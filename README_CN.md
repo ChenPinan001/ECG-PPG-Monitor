@@ -26,7 +26,8 @@
 
 # 🖥️ 系统演示
 
-<img width="1918" height="1020" alt="image" src="https://github.com/user-attachments/assets/3bbd06af-0c2e-4538-8e83-f4827646867b" />
+<img width="1918" height="985" alt="image" src="https://github.com/user-attachments/assets/4a0d7271-4ec5-4dbe-83cf-82033f0c3cec" />
+
 
 ---
 
