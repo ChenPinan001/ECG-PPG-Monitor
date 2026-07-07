@@ -26,7 +26,8 @@ The **hardware side** is developed based on the STM32 HAL library, integrating E
 
 # 🖥️ System Demo
 
-<img width="1918" height="1020" alt="063d9880843635abe8d57eca6846c112" src="https://github.com/user-attachments/assets/537d532c-24a2-49af-b7af-58e084fe3484" />
+<img width="1918" height="985" alt="374d1d283bec25e77fd6abe25f1a01c1" src="https://github.com/user-attachments/assets/a9611828-11d0-48c1-a487-f1307229d428" />
+
 
 
 ---
